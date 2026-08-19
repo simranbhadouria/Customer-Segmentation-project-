@@ -1,4 +1,4 @@
-# Customer-Segmentation-project-
+# Customer-Segmentation
 Description:
 As part of my MBA Business Analytics coursework, I worked on customer segmentation for a fictional online retail company to help the marketing team design targeted strategies. The project involved data cleaning, analysis, applying RFM segmentation, clustering, and building visual dashboards.
 
